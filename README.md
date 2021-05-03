@@ -34,7 +34,10 @@
 
 
 ### 정확도(R2 score)
-<img src="/img/R2_score.jpg" title="px(픽셀) 크기 설정" alt="R2_score"></img>
+>가상 발전소 예측은 SVR 모델이 96%로 가장 높은 정확도를 보였고,<br>
+내일 발전량 예측은 k-NN Regression 모델이 85%로 가장 높은 정확도를 보였습니다.
+
+<img src="/img/R2_score.jpg" title="px(픽셀) 크기 설정" alt="R2_score"></img><br>
 
 
 ### 코드 목록
