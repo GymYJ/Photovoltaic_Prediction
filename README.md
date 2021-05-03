@@ -17,9 +17,9 @@
 정확도는 R2 score로 계산했습니다.<br>
 실제값과 일치하면 1, 전혀 다르면 0의 값을 보여줍니다.<br>
 * 날씨 feature와 태양광 발전량의 상관관계<br>
-<img src="/img/correlation.jpg" title="px(픽셀) 크기 설정" alt="correlation"></img>
+<img src="/img/correlation.jpg" title="correlation" alt="correlation"></img>
 * 가상 발전소의 발전량 예측<br>
-<img src="/img/virtual_power_plant.jpg" width="80%" height="60%" title="px(픽셀) 크기 설정" alt="virtual_power_plant"></img>
+<img src="/img/virtual_power_plant.jpg" width="80%" height="60%" title="virtual_power_plant" alt="virtual_power_plant"></img>
 
 <br>
 
@@ -30,14 +30,14 @@
 정확도는 R2 score로 계산했습니다.<br>
 실제값과 일치하면 1, 전혀 다르면 0의 값을 보여줍니다.<br>
 * 내일 발전량 예측<br>
-<img src="/img/tomorrow_prediction.jpg" width="80%" height="60%" title="px(픽셀) 크기 설정" alt="tomorrow_prediction"></img>
+<img src="/img/tomorrow_prediction.jpg" width="80%" height="60%" title="tomorrow_prediction" alt="tomorrow_prediction"></img>
 
 
 ### 정확도(R2 score)
 >가상 발전소 예측은 SVR 모델이 96%로 가장 높은 정확도를 보였고,<br>
 내일 발전량 예측은 k-NN Regression 모델이 85%로 가장 높은 정확도를 보였습니다.
 
-<img src="/img/R2_score.jpg" title="px(픽셀) 크기 설정" alt="R2_score"></img><br>
+<img src="/img/R2_score.jpg" title="R2_score" alt="R2_score"></img><br>
 
 
 ### 코드 목록
